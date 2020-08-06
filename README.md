@@ -91,6 +91,4 @@ I am creating a table to map over the elements and display a values I need
         </tbody>
       </table>
   
-    </div>
-  );
-}
+  
