@@ -84,7 +84,6 @@ I am creating a table to map over the elements and display a values I need
               <tr>
                 <td>{row.profit}</td>
                 <td>bond_{row.bond_name}</td>
-                <td>bond_{row.top_three}</td>
               </tr>
             ))
           }
